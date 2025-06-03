@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(167, 94, 11);
+}
+body{
+    font-family:'Segoe UI', sans-serif;
+    color:#333;
+    padding: 30px;
+    text-align: center;
+}
+img{
+    margin-top:15px;
+    border-radius: 10px;
+    box-shadow:4px,4px,4px,gray;
+
+}
+a{
+    font-weight: strong;
+    text-decoration:underline;
+}
+button{
+    background-color: greenyellow;
+    color:rgb(255, 0, 115);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
